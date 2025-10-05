@@ -87,7 +87,7 @@ Thank you for playing.
 
 2. What was the hardest part of this lab?
 
-# I think this submission is going to fail, so I'll let you know after I submit one that passes
+# Oh, it passed. Wow. OK, then the hardest part for me was initially figuring out the correct syntax for the "Choice" part here.
 
 
 
